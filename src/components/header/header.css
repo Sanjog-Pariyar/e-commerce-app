@@ -1,0 +1,15 @@
+.header-nav {
+  position: sticky;
+  top: 0;
+  box-shadow: 0px 10px 20px #ccc;
+  margin-bottom: 10px;
+  background-color: whitesmoke;
+}
+.header-ul {
+  display: flex;
+  justify-content: space-between;
+}
+.header-h2 {
+  font-family: monospace;
+  font-size: 30px;
+}
